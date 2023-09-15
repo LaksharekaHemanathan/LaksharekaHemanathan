@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LaksharekaHemanathan
-- 👀 I’m interested in analytics 
-- 🌱 I’m currently learning SQL and PowerBI
-- 💞️ I’m looking to collaborate on projects to enhance my data analytical skills
+- 👀 I’m interested in problem-solving and passionate about analytics 
+- 🌱 I’m currently upskilling in Python, SQL, PowerBI and Tableau
+- 💞️ I’m looking to collaborate on projects to enhance my business and data analytical skills
 - 📫 How to reach me ...
 
 <!---
